@@ -21,3 +21,9 @@ ShareCycle allows verified donors to donate educational items securely using Ste
 
 ```bash
 soroban contract build
+
+
+CONTRACT ID: CB3QIR6JU2UWIAT5FCBRBPGRPEYSIOQGEKJJQCJ2NFS2DEX43NFWSUFO
+LINK: https://stellar.expert/explorer/testnet/tx/83272bd25a0bcd2af6ca0a0984caf3eecc0679bc6af89ffa14dfe7cc983aae81
+LINK: https://lab.stellar.org/r/testnet/contract/CB3QIR6JU2UWIAT5FCBRBPGRPEYSIOQGEKJJQCJ2NFS2DEX43NFWSUFO
+
